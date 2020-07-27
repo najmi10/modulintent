@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Studikasus</string>
+    <string name="long_name">Nama Panjang</string>
+    <string name="place_birth">Tempat Lahir</string>
+    <string name="birth_date">Tanggal Lahir</string>
+    <string name="adress">Alamat</string>
+    <string name="number">Nomor Telepon</string>
+    <string name="hobbies">Hobi</string>
+    <string name="wish">Keinginan</string>
+    <string name="ini_proses">Proses</string>
+    <string name="ini_tampil">- - - - - -</string>
+</resources>
