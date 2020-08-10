@@ -5,4 +5,5 @@
 ![AltText](https://github.com/najmi10/App-data-diri/blob/master/Screenshot_2020-07-27-12-08-03-50.png)
 
 # Modul Intent
-![AltText](
+# Tampilan Awal
+![AltText](https://github.com/najmi10/App-data-diri/blob/master/intent3.jpeg)
