@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealthSave</string>
+    <string name="jaga_diri">Kuy Jaga Diri Sendiri</string>
+    <string name="cuci_tangan">Cara mencuci tangan yang benar</string>
+    <string name="pakai_masker">Cara memakai masker yang benar</string>
+    <string name="hidup_sehat">Tips pola hidup sehat</string>
+</resources>
