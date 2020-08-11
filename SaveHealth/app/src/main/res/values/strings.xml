@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SaveHealth</string>
+    <string name="jaga_diri">Kuy Jaga Diri Sendiri selama pandemi</string>
+    <string name="cuci_tangan">Cara mencuci tangan yang benar</string>
+    <string name="pakai_masker">Cara memakai masker yang benar</string>
+    <string name="hidup_sehat">Tips Pola hidup yang sehat</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_movejaga">Menghindari apa saja selama pandemi?</string>
+    <string name="this_is_movemasker">Jangan Lupa Memakai Masker!</string>
+    <string name="this_is_movehidup">Pola Hidup Sehat yang benar</string>
+    <string name="this_is_movecuci">Jangan Lupa Cuci Tangan dengan Benar!</string>
+    <string name="tampilan_menu">Hihi</string>
+</resources>
